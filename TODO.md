@@ -1,0 +1,5 @@
+- merge this with the component-srp / meteor implementation to remove off-browser dependencies
+- add / update component.json file to allow for in-browser integration with component
+- (optional) break out the dependencies (bigint/biginteger, random, sha256, etc) as individual components to ease upkeep / reuse
+- (optional) pull in newer/better/more elements from sjcl-full and/or other people who're good at things
+- (eventually) add full persona integration
